@@ -6,9 +6,13 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
 
+# ?
+
 ### Can crypto and alt-currencies be decoupled from cashless payments?
 ### How can we solve the 3-dollar payment question in food nightmarkets?
-### 
+### Is advertizing space on a coin viable, buyable, marketing?
+### Why donate / subscribe to a project like this?
+### What is the most beautiful coin we can make?
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
