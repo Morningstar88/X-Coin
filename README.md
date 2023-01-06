@@ -18,6 +18,10 @@
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
 </p>
 
+## What Future are we building?
+
+When i go round my local nightmarket in the future, i'd like to see 5-10 competing local currencies. X-Coin, Lucy-coin
+
 ## Rules for Going Out
 
 - Buy Something First
@@ -25,12 +29,14 @@
 - Say NOTHING, just give them the "Letter to Shopkeeper" PRINTOUT 
 - Strum ukulele, hard 
 - Give them 10-15 minutes to respond
-- pay them 200, thank them
+- Pay them 200TWD, thank them
 - Show them the coin
 
 ## Making Beautiful Coins
 
 ### What materials can we use?
+### What are the best woods and stones?
+### Can we use Aluminium cans?
 
 ## [Obsidian](https://www.google.com/search?q=obsidian+token&newwindow=1&sxsrf=ALiCzsYnH31Rw8m8BZ7XQWo0Y_LOT2XZxw:1672969562943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigr5Ok6bH8AhUaat4KHfC3BUYQ_AUoAnoECAEQBA&biw=911&bih=429&dpr=1.5)
 
