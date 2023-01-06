@@ -8,8 +8,8 @@
 
 # ?
 
-### Can crypto and alt-currencies be decoupled from cashless payments?
 ### How can we solve the 3-dollar payment question in food nightmarkets?
+### Can crypto and alt-currencies be decoupled from cashless payments?
 ### Is advertizing space on a coin viable, buyable, marketing?
 ### Why donate / subscribe to a project like this?
 ### What's the most beautiful coin we can mint?
@@ -29,6 +29,8 @@
 - Show them the coin
 
 ## Making Beautiful Coins
+
+### What materials can we use?
 
 ## [Obsidian](https://www.google.com/search?q=obsidian+token&newwindow=1&sxsrf=ALiCzsYnH31Rw8m8BZ7XQWo0Y_LOT2XZxw:1672969562943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigr5Ok6bH8AhUaat4KHfC3BUYQ_AUoAnoECAEQBA&biw=911&bih=429&dpr=1.5)
 
