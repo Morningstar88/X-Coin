@@ -32,6 +32,11 @@
 
 ## [Obsidian](https://www.google.com/search?q=obsidian+token&newwindow=1&sxsrf=ALiCzsYnH31Rw8m8BZ7XQWo0Y_LOT2XZxw:1672969562943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigr5Ok6bH8AhUaat4KHfC3BUYQ_AUoAnoECAEQBA&biw=911&bih=429&dpr=1.5)
 
+<br>
+<br>
+<br>
+<br>
+
 ## [Letter to Shopkeeper](https://docs.google.com/document/d/10DpnajfbLqazDsTCYXLW8dzyd9WP7qcSgT1uLm0Vi0M/edit)
 
 Dear Shopkeeper,
