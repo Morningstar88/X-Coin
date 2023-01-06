@@ -12,7 +12,7 @@
 ### How can we solve the 3-dollar payment question in food nightmarkets?
 ### Is advertizing space on a coin viable, buyable, marketing?
 ### Why donate / subscribe to a project like this?
-### What is the most beautiful coin we can make?
+### What's the most beautiful coin we can mint?
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/Kalki-Better-Screenshot.png">
@@ -27,6 +27,10 @@
 - Give them 10-15 minutes to respond
 - pay them 200, thank them
 - Show them the coin
+
+## Making Beautiful Coins
+
+## [Obsidian](https://www.google.com/search?q=obsidian+token&newwindow=1&sxsrf=ALiCzsYnH31Rw8m8BZ7XQWo0Y_LOT2XZxw:1672969562943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigr5Ok6bH8AhUaat4KHfC3BUYQ_AUoAnoECAEQBA&biw=911&bih=429&dpr=1.5)
 
 ## [Letter to Shopkeeper](https://docs.google.com/document/d/10DpnajfbLqazDsTCYXLW8dzyd9WP7qcSgT1uLm0Vi0M/edit)
 
