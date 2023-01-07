@@ -38,6 +38,12 @@ When I go round my local nightmarket in the future, i'd like to see 5-10 competi
 ### What are the best woods and stones?
 ### Can we use Aluminium cans?
 
+## Brass Spirals
+
+[Brass Spirals](https://www.google.com/search?q=brass+coil+spiral&newwindow=1&sxsrf=AJOqlzVquErNMWcs0M3hRPJ3yu9FTdbH2Q:1673129275196&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX2_GgvLb8AhXQ_WEKHX_QAuoQ_AUoAXoECAEQAw&biw=911&bih=429&dpr=1.5)
+
+
+
 ## [Obsidian](https://www.google.com/search?q=obsidian+token&newwindow=1&sxsrf=ALiCzsYnH31Rw8m8BZ7XQWo0Y_LOT2XZxw:1672969562943&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigr5Ok6bH8AhUaat4KHfC3BUYQ_AUoAnoECAEQBA&biw=911&bih=429&dpr=1.5)
 
 <br>
