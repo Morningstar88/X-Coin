@@ -20,9 +20,9 @@
 
 ## What Future are we building?
 
-When i go round my local nightmarket in the future, i'd like to see 5-10 competing local currencies. X-Coin, Lucy-coin
+When I go round my local nightmarket in the future, i'd like to see 5-10 competing local currencies. X-Coin, Lucy-coin
 
-## Rules for Going Out
+## Rules for Going Out and Pre-Paying Food Accounts
 
 - Buy Something First
 - Take Someone Charismatic
