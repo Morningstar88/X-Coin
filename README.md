@@ -38,6 +38,10 @@ When I go round my local nightmarket in the future, i'd like to see 5-10 competi
 ### What are the best woods and stones?
 ### Can we use Aluminium cans?
 
+## Wood Designs
+
+### [Shuriken Ninja Stars](https://www.shutterstock.com/search/ninja-throwing-star?image_type=vector)
+
 ## Brass Spirals
 
 [Brass Spirals](https://www.google.com/search?q=brass+coil+spiral&newwindow=1&sxsrf=AJOqlzVquErNMWcs0M3hRPJ3yu9FTdbH2Q:1673129275196&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX2_GgvLb8AhXQ_WEKHX_QAuoQ_AUoAXoECAEQAw&biw=911&bih=429&dpr=1.5)
