@@ -32,6 +32,10 @@ When I go round my local nightmarket in the future, i'd like to see 5-10 competi
 - Pay them 200TWD, thank them
 - Show them the coin
 
+## RFID Homemade
+
+https://www.youtube.com/results?search_query=homemade+rfid+token
+
 ## Making Beautiful Coins
 
 ### What materials can we use?
