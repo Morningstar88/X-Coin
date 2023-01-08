@@ -44,11 +44,15 @@ When I go round my local nightmarket in the future, i'd like to see 5-10 competi
 
 ### [Wooden Shurikens](https://www.google.com/search?q=wooden+shuriken&newwindow=1&sxsrf=AJOqlzUXez2gU1kTC45liPuuXtt8AyuZbw:1673155444763&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibmsHfnbf8AhWLH3AKHSCBBbYQ_AUoAXoECAIQAw&biw=911&bih=429&dpr=1.5)
 
+### Good Looking Wooden Shuriken
+
+https://www.pinterest.com/pin/643029653047218272/
+
 ## Brass Spirals
 
 [Brass Spirals](https://www.google.com/search?q=brass+coil+spiral&newwindow=1&sxsrf=AJOqlzVquErNMWcs0M3hRPJ3yu9FTdbH2Q:1673129275196&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX2_GgvLb8AhXQ_WEKHX_QAuoQ_AUoAXoECAEQAw&biw=911&bih=429&dpr=1.5)
 
-## PAssive RFID (Like MRT Tokens)
+## Passive RFID (Like MRT Tokens)
 
 https://www.link-labs.com/blog/rfid-cost
 
