@@ -11,7 +11,6 @@
 ### How can we solve the 3-dollar payment question in food nightmarkets?
 ### Can crypto and alt-currencies be decoupled from cashless payments?
 ### Is advertizing space on a coin viable, buyable, marketing?
-### Why donate / subscribe to a project like this?
 ### What's the most beautiful coin we can mint?
 
 <p align="center">
@@ -22,15 +21,12 @@
 
 When I go round my local nightmarket in the future, i'd like to see 5-10 competing local currencies. X-Coin, Lucy-coin
 
-## Rules for Going Out and Pre-Paying Food Accounts
+## Making Beautiful Coins
 
-- Buy Something First
-- Take Someone Charismatic
-- Say NOTHING, just give them the "Letter to Shopkeeper" PRINTOUT 
-- Strum ukulele, hard 
-- Give them 10-15 minutes to respond
-- Pay them 200TWD, thank them
-- Show them the coin
+### What materials can we use?
+### What are the best woods and stones?
+### Can we use Aluminium cans?
+
 
 ## RFID Homemade
 
