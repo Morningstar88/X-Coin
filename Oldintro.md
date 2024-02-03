@@ -1,10 +1,14 @@
+# X-Coin
+
+## An Experimental Local Token / Currency for Ximending and Beyond
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
+</p>
+
 # ?
-Apa solusinya untuk pembayaran 3 dolar di warung makan malam?
-Bisakah kripto dan mata uang alternatif dipisahkan dari pembayaran nontunai?
-Apakah ruang iklan di koin layak dibeli, dipasarkan?
-Apa koin tercantik yang bisa kita cetak?
-### Apa solusinya untuk pembayaran 3 dolar di warung makan malam?
-How can we solve the 3-dollar payment question in food nightmarkets?
+
+### How can we solve the 3-dollar payment question in food nightmarkets?
 ### Can crypto and alt-currencies be decoupled from cashless payments?
 ### Is advertizing space on a coin viable, buyable, marketing?
 ### What's the most beautiful coin we can mint?
@@ -91,8 +95,6 @@ Best Wishes,
 Morningstar (Foundation)
 
 (70 words)
-
-
 
 
 
