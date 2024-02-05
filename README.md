@@ -1,7 +1,7 @@
 # X-Coin
 
 ### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh ~ An Experimental Local Token / Currency for Bali and Beyond
-## // Makanan prabayar:2 // Koin dikeluarkan:0 ~ Meals prepaid:2 // Coins issued:0 
+## // Makanan prabayar: 2 // Koin dikeluarkan: 0 ~ Meals prepaid: 2 // Coins issued: 0 
 ## // Stores: Dhika- opposite Circle K.
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
