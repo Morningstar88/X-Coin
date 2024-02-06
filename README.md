@@ -8,7 +8,7 @@
 </p>
 
 ## Tiga langkah ~ Three steps
-#### Step 1: Prepay 5 meals. Step two: create five simple coins or coupons. Step three: give or exchange the tokens
+#### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens
 #### Langkah 1. Bayar di muka 5 kali makan. Langkah kedua - buat lima koin atau kupon sederhana. Langkah ketiga - berikan atau tukarkan token
 https://codepen.io/Teeke/full/OJaLzJB
 ## Membuat Koin Cantik-Making Beautiful Coins
