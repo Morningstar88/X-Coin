@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="marq.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+body{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+marquee{
+    background-color: black;
+    width: 100vw;
+    color: white;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold; 
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+img {
+    opacity: 0.9;
+    border-radius: 12px 1px 12px 1px;
+    width: 28px;
+  }
+  .name-link {
+    color: #E0D6F0;
+  }
+
+  .name-link:hover {
+    color: #ff8b3d;
+  }
+
+  .name-link:visited {
+    color: #705DBF;
+  }
+
+  .name-link:active {
+    color: #000;
+  }
+
+  /*Project Link*/
+  .project-link {}
+
+  .project-link:hover {
+    color: #8C78DB; 
+  }
+
+  .project-link:visited {
+    color: #fefefe;
+  }
+
+  .project-link:active {
+    color: #fefefe;
+  }
+  a {
+    text-decoration: none;
+    color: #fefefe;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .heading-link,
+  .heading-link:active,
+  .heading-link:visited {
+    color: rgba(10, 10, 10, 0.9);
+    letter-spacing: -4px;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    font-size: 60px;
+  }
+
+  .heading-link:hover {
+    color: rgba(40, 40, 40, 0.9);
+    letter-spacing: -4px;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    font-size: 60px;
+  }
+
+  .second-panel {
+    color: #ff5500;
+  }
+
+  .second-panel:hover {
+    color: #dd2200;
+  }
+
+  .container {
+    padding: 75px 0;
+    margin: 0 auto;
+    width: 1240px;
+    /* ORIG 1140px*/
+  }
+
+  h1 {
+    position: relative;
+    margin-bottom: 45px;
+    font-family: "Oswald", sans-serif;
+    font-size: 44px;
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 700;
+  }
+
+  .gallery-wrap {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70vh;
+  }
+
+  .item {
+    flex: 1;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    transition: flex 4.3s ease;
+    /*ORIG 0.3*/
+  }
+
+  .item:hover {
+    flex: 2;
+    /* ORIG 7*/
+  }
+
+  .item-1 {
+    background-image: url("https://raw.githubusercontent.com/Morningstar88/X-Coin/main/pics/water-lilies-pink-water-lake-46231.webp");
+    filter: brightness(70%) hue-rotate(-45deg) contrast(120%);
+  }
+
+  .item-2 {
+    background-image: url("https://raw.githubusercontent.com/Morningstar88/X-Coin/main/pics/pexels-photo-2659475.webp");
+    filter: brightness(90%) hue-rotate(-40deg);
+  }
+
+  .item-3 {
+    /* background-image: url("https://assets.codepen.io/577362/tesla-coil.jpeg");*/
+    filter: brightness(80%) hue-rotate(45deg);
+  }
+
+  .item-4 {
+    background-image: url("https://raw.githubusercontent.com/Morningstar88/X-Coin/main/pics/pexels-photo-2412720.jpeg");
+    filter: brightness(80%) hue-rotate(-40deg);
+  }
+
+  .item-5 {
+    background-image: url("https://raw.githubusercontent.com/Morningstar88/X-Coin/main/pics/pexels-photo-2186581.jpeg");
+    filter: brightness(100%) hue-rotate(30deg);
+  }
+
+  .social {
+    position: absolute;
+    right: 35px;
+    bottom: -200px;
+  }
+
+  .social img {
+    display: block;
+    width: 32px;
+  }
+  </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <marquee behavior="" direction="">
+        <div class="responsive-container">
+      
+          <div id="ticker" class="stockTicker">
+      
+            <!-- FIRST PROJECT ON TICKER -->
+      
+            <img height="30px" src="https://assets.codepen.io/577362/Pink-Catgirl-Donuts-Doughnuts.jpg"><a class="name-link" href="https://www.google.com" target="_blank">Dhika warung</a>   <a class="project-link" href="https://github.com/Morningstar88/PhuQuoc"           target="_blank">helped us give out two meals..</a>
+      
+      
+            <!-- SECOND PROJECT ON TICKER -->
+      
+            <img height="30px" src="https://assets.codepen.io/577362/Kalki-Emerald-2022.jpeg"><a class="name-link" href="https://www.patreon.com" target="_blank">Your </a>
+            project <a class="project-link" href="https://www.patreon.com" target="_blank">here</a>
+      
+            
+          </div>
+        </div>
+        </div>
+      
+      </marquee>
+
+        <div class="container">
+          <a class="heading-link" href="https://www.fiverr.com/search/gigs?query=taiwan&source=main_banner&search_in=everywhere&search-autocomplete-original-term=taiwan" target="_blank">𓄂 Bali food tokens~Token makanan Bali
+ </a>
+      
+          <div class="gallery-wrap">
+      
+            <div class="item item-1"><a class="first-panel" href="https://www.kickstarter.com/projects/marcogmunoz/lamiluz-the-compact-garden?ref=discovery" target="_blank">&nbsp; c&nbsp;&nbsp;</a>
+            </div>
+      
+            <div class="item item-2">
+              <a class="second-panel" href="https://www.startsomegood.com/gambiagreenart" target="_blank">&nbsp;人&nbsp;&nbsp;</a>
+            </div>
+      
+            <!-- video div a mess -->
+            <div class="item item-3"><video height="230px" loop autoplay muted>
+                <source src="https://assets.codepen.io/577362/pexels-ron-lach-10186940.mp4" type="video/mp4">
+                <a class="third-panel" href="https://www.fiverr.com/gigs/taiwan">&nbsp;&nbsp;word☳震</a>
+              </video>
+      
+            </div>
+      
+            <!-- eND vIDEo DIV-->
+      
+            <div class="item item-4">
+              <a class="fourth-panel" href="https://raw.githubusercontent.com/Morningstar88/X-Coin/main/pics/pexels-photo-2412720.jpeg" target="_blank">&nbsp;家&nbsp;&nbsp;</a>
+            </div>
+            <div class="item item-5"><a class="fifth-panel" href="https://www.kickstarter.com/projects/1153863184/solar-roof-for-e-scooter-e-bike?ref=discovery&term=solar" target="_blank">&nbsp;f&nbsp;&nbsp;</a></div>
+          </div>
+          <!-- START COMMENTS -->
+          <br><br><br>
+      
+     
+          <br><br><br><br><br><br><br>
+          <div class="social">
+            <a href="https://twitter.com/StefCharle" target="_blank">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/149103/twitter.svg" alt="">
+            </a>
+          </div>
+           <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+
+
+<!--
+    <script type="text/javascript">
+      new TradingView.MediumWidget({
+        "container_id": "tv-medium-widget-57006",
+        "symbols": [
+          [
+            "Nasdaq",
+            "NASDAQ:NDAQ|1y"
+          ],
+        ],
+        "greyText": "Quotes by",
+        "gridLineColor": "#e9e9ea",
+        "fontColor": "#83888D",
+        "underLineColor": "#dbeffb",
+        "trendLineColor": "#4bafe9",
+        "width": "1000px",
+        "height": "400px",
+        "locale": "en"
+      });
+    </script-->
+</body>
+</html>
