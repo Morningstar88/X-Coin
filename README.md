@@ -2,7 +2,7 @@
 
 ### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh ~ An Experimental Local Token / Currency for Bali and Beyond
 ## // Makanan prabayar: 2 // Koin dikeluarkan: 0 ~ Meals prepaid: 2 // Coins issued: 0 
-## // Stores: Dhika- opposite Circle K.
+## // Stores: Dhika- opposite Circle K. [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
