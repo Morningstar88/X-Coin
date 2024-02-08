@@ -1,15 +1,16 @@
 # X-Coin
 
-### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh ~ An Experimental Local Token / Currency for Bali and Beyond
-## // Makanan prabayar: 2 // Koin dikeluarkan: 0 ~ Meals prepaid: 2 // Coins issued: 0 
-## // Stores: Dhika- opposite Circle K. [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
+### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh 𓍳 An Experimental Local Token / Currency for Bali and Beyond
+## // Makanan prabayar: 2 // Koin dikeluarkan: 0   
+## // Stores: Dhika- opposite Circle K // [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
 
 ## Tiga langkah ~ Three steps
-#### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens
-#### Langkah 1. Bayar di muka 5 kali makan. Langkah kedua - buat lima koin atau kupon sederhana. Langkah ketiga - berikan atau tukarkan token
+### Langkah 1. Bayar di muka 5 kali makan. Langkah kedua - buat lima koin atau kupon sederhana. Langkah ketiga - berikan atau tukarkan token
+### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens
+## desain alternatif𓅇
 https://codepen.io/Teeke/pen/rNRKJpG
 ## Membuat Koin Cantik-Making Beautiful Coins
 ### https://www.pexels.com/search/coin/ https://www.pexels.com/search/Wooden%20coin/
