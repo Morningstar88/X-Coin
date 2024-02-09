@@ -14,7 +14,7 @@
 * [Desain Bali](https://codepen.io/Teeke/pen/rNRKJpG).
 * [Tengah malam](https://codepen.io/Teeke/pen/ZERPVWx).
 * [Desain asli](https://codepen.io/stefcharle/pen/Gydvbx).
-* [Desain asli](https://codepen.io/Teeke/pen/gOEdvdq).
+* [Three pane design Tessellated](https://codepen.io/Teeke/pen/gOEdvdq).
 ## Membuat Koin Cantik-Making Beautiful Coins
 ### https://www.pexels.com/search/coin/ https://www.pexels.com/search/Wooden%20coin/
 ### Bahan apa yang bisa kita gunakan? - What materials can we use?
