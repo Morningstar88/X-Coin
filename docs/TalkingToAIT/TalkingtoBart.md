@@ -1,5 +1,5 @@
 ## Pertanyaan yang Mungkin Ditanyakan Masyarakat Bali tentang Pengembangan Desa dan Penghasilan Alternatif di Luar Pariwisata | Questions Balinese People Might Ask About Village Development and Earning Money Beyond Tourism
-Pertanyaan | Questions
+[Bard | Questions](https://bard.google.com/chat/aa1efe5145b5a97c)
 ### Apa saja sumber daya yang dimiliki desa kami yang berpotensi dikembangkan untuk meningkatkan kesejahteraan masyarakat? | What resources does our village have that could be developed to improve the well-being of the community?
 ### Bagaimana caranya agar desa kami mandiri tidak hanya bergantung pada pariwisata? | How can our village become self-sufficient and not rely solely on tourism?
 ### Apakah ada keahlian tradisional masyarakat desa kami yang bisa dikomersialkan secara digital? | Can the traditional skills of our village people be commercialized digitally?
