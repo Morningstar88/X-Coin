@@ -6,11 +6,11 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
-
+<br><br><br>
 ## Tiga langkah ~ Three steps
 ### Langkah 1. Bayar di muka 5 kali makan. Langkah kedua - buat lima koin atau kupon sederhana. Langkah ketiga - berikan atau tukarkan token
-### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens
-## desain alternatif𓅇
+### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens<br><br><br>
+## Desain𓅇
 * [Desain Bali](https://codepen.io/Teeke/pen/rNRKJpG).
 * [Tengah malam](https://codepen.io/Teeke/pen/ZERPVWx).
 * [Desain asli](https://codepen.io/stefcharle/pen/Gydvbx).
