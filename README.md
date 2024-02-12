@@ -4,9 +4,9 @@
 
 ## // Makanan prabayar: 7 // Koin dikeluarkan: 0
 
-## // Toko: Dhika - seberang Circle K
+## // Toko: Dhika - seberang Circle K [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
 
-[¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
