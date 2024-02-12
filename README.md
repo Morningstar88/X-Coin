@@ -1,7 +1,7 @@
 # X-Coin
 
 ### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh 𓍳 An Experimental Local Token / Currency for Bali and Beyond
-## // Makanan prabayar: 2 // Koin dikeluarkan: 0   
+## // Makanan prabayar: 7 // Koin dikeluarkan: 0   
 ## // Stores: Dhika- opposite Circle K // [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
