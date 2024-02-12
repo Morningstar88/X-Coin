@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p><br><br><br>
-
 ## Tiga langkah ~ Three steps
 ### Langkah 1. Bayar di muka 5 kali makan. Langkah kedua - buat lima koin atau kupon sederhana. Langkah ketiga - berikan atau tukarkan token
 ### Step 1: Prepay 5 meals. Step 2: create five simple coins or coupons. Step 3: give or exchange the tokens<br><br><br>
@@ -20,6 +19,7 @@
 ### Bahan apa yang bisa kita gunakan? - What materials can we use?
 ### Apa kayu dan batu terbaik - What are the best woods and stones?
 ### Bisakah kita menggunakan kaleng Aluminium? - Can we use Aluminium cans?
+
 
 
 <p align="center">
