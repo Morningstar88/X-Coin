@@ -2,7 +2,7 @@
 
 ### Uang Lokal Eksperimental untuk Bali dan Lebih Jauh 𓍳
 
-## // Makanan prabayar: 7 // Koin dikeluarkan: 0
+## // Makanan prabayar: 8 // Koin dikeluarkan: 0
 
 ## // Toko: Dhika - seberang Circle K [¡Ubud!𓀫Kunjungi situs web baru kami𓃚](https://ubud.vercel.app/)
 <p align="center">
